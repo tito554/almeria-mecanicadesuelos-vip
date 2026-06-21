@@ -1,0 +1,53 @@
+# Almeria
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://almeria.mecanicadesuelos.vip/aislacion-sismica/)
+- [Anclajes](https://almeria.mecanicadesuelos.vip/anclajes/)
+- [Asentamiento Diferencial](https://almeria.mecanicadesuelos.vip/asentamiento-diferencial/)
+- [Calicatas Exploratorias](https://almeria.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Capacidad De Carga](https://almeria.mecanicadesuelos.vip/capacidad-de-carga/)
+- [Cimentaciones](https://almeria.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://almeria.mecanicadesuelos.vip/cimentaciones-rellenos/)
+- [Cimentaciones Superficiales](https://almeria.mecanicadesuelos.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://almeria.mecanicadesuelos.vip/clasificacion-suelos/)
+- [Compresion Simple](https://almeria.mecanicadesuelos.vip/compresion-simple/)
+- [Densidad Cono Arena](https://almeria.mecanicadesuelos.vip/densidad-cono-arena/)
+- [Drenes Verticales](https://almeria.mecanicadesuelos.vip/drenes-verticales/)
+- [Ensayo Spt](https://almeria.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayos In Situ](https://almeria.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://almeria.mecanicadesuelos.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://almeria.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estudio Mecanica Suelos](https://almeria.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://almeria.mecanicadesuelos.vip/evaluacion-pavimentos/)
+- [Excavaciones Subterraneas](https://almeria.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://almeria.mecanicadesuelos.vip/exploracion/)
+- [Geomembranas](https://almeria.mecanicadesuelos.vip/geomembranas/)
+- [Geotecnia Vial](https://almeria.mecanicadesuelos.vip/geotecnia-vial/)
+- [Granulometria](https://almeria.mecanicadesuelos.vip/granulometria/)
+- [Infiltracion](https://almeria.mecanicadesuelos.vip/infiltracion/)
+- [Laboratorio](https://almeria.mecanicadesuelos.vip/laboratorio/)
+- [Limites Atterberg](https://almeria.mecanicadesuelos.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://almeria.mecanicadesuelos.vip/losa-de-cimentacion/)
+- [Mejoramiento](https://almeria.mecanicadesuelos.vip/mejoramiento/)
+- [Micropilotes](https://almeria.mecanicadesuelos.vip/micropilotes/)
+- [Monitoreo Excavaciones](https://almeria.mecanicadesuelos.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://almeria.mecanicadesuelos.vip/muros-contencion/)
+- [Permeabilidad Laboratorio](https://almeria.mecanicadesuelos.vip/permeabilidad-laboratorio/)
+- [Pilotes](https://almeria.mecanicadesuelos.vip/pilotes/)
+- [Rellenos Sanitarios](https://almeria.mecanicadesuelos.vip/rellenos-sanitarios/)
+- [Respuesta Sismica](https://almeria.mecanicadesuelos.vip/respuesta-sismica/)
+- [Sismica](https://almeria.mecanicadesuelos.vip/sismica/)
+- [Suelos No Saturados](https://almeria.mecanicadesuelos.vip/suelos-no-saturados/)
+- [Suelos Organicos](https://almeria.mecanicadesuelos.vip/suelos-organicos/)
+- [Taludes Y Muros](https://almeria.mecanicadesuelos.vip/taludes-y-muros/)
+- [Terraplenes Viales](https://almeria.mecanicadesuelos.vip/terraplenes-viales/)
+- [Vibrocompactacion](https://almeria.mecanicadesuelos.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://almeria.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
